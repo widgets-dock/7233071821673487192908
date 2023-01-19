@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "791047509786",
+    "firebase_url": "https://guide-fitbit-versa-2.firebaseio.com",
+    "project_id": "guide-fitbit-versa-2",
+    "storage_bucket": "guide-fitbit-versa-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791047509786:android:a86e3ff46c870494e8bea3",
+        "android_client_info": {
+          "package_name": "com.permnbs.fortipsandguideftbtvrsatwopram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791047509786-4tmi3fio37mjikandd34qj5ejohs8l5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfLMK8G1OCToAbv1dk1g9U6WodOOZj0FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791047509786-4tmi3fio37mjikandd34qj5ejohs8l5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
